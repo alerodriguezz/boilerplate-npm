@@ -1,8 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-jsonale",
 	"author": "Alex",
-  "description": "Free-Code-Camp API and Microservice package.json exercise",
-  "keywords": [ "freecodecamp", "certificate", "api", "microservice" ],
+	"description": "Free-Code-Camp API and Microservice package.json exercise",
+	"keywords": [
+		"freecodecamp",
+		"certificate",
+		"api",
+		"microservice"
+	],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
